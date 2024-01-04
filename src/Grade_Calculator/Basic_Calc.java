@@ -17,9 +17,10 @@ public class Basic_Calc {
         Scanner sc = new Scanner(System.in);
         System.out.println("Enter the students score:");
         int score = sc.nextInt();
+        byte apple_size = 3;
 
         if (score >= 90 && score <= 100) {
-            System.out.println("Your score is A");
+            System.out.println("Your score is A");//love
         } else if (score >= 80 && score <= 89) {
             System.out.println("Your score is B");
         } else if (score >= 70 && score <= 79) {
