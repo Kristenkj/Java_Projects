@@ -1,8 +1,8 @@
-package src.Grade_Calculator;
+package src.Calculators;
 
 import java.util.Scanner;
 
-public class Basic_Calc {
+public class Basic_Calc01 {
     public static void main(String[] args) {
 
         /* This program creates a basic grade calculator.
