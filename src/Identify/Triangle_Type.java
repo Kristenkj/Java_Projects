@@ -1,4 +1,4 @@
-package src.Triangle_Classifier;
+package src.Identify;
 
 import java.util.Scanner;
 

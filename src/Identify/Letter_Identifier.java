@@ -1,8 +1,8 @@
-package src.Letter_Identifier;
+package src.Identify;
 
 import java.util.Scanner;
 
-public class Alphabet {
+public class Letter_Identifier {
     public static void main(String[] args) {
         /*
         This program identifies and informs the user if an alphabet character is a vowel or consonant

@@ -1,8 +1,8 @@
-package src.Days_Identifier;
+package src.Identify;
 
 import java.util.Scanner;
 
-public class Week_Days {
+public class Days_of_week {
     public static void main(String[] args) {
 
         /*
