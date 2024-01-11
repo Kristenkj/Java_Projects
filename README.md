@@ -1,5 +1,5 @@
 # ATB5x JAVA Projects
-This repository contains a list of projects completed during my JAVa automation training. 
+This repository contains a list of projects completed during my JAVa automation training. The projects were created inside of intellij and cover the basics & OOPs of the JAVA language.
 
 ## Getting Started 
 
