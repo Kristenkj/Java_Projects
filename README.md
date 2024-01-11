@@ -3,7 +3,7 @@ This repository contains a list of projects completed during my JAVA training. T
 
 ## Getting Started 
 
-To view the details of each project, simply click on a folder ending in *.pr* . Upon doing this you will see a list of corresponding projects in each folder.
+To view the details of each project, simply click on one of the folders listed below . Upon doing this you will see a list of corresponding projects in each folder.
 
 Below you will find a table with more info regarding the projects within each folder.:
 |Folder | Project Name | Description | Tools Used |
