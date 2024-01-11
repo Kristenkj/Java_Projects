@@ -1,4 +1,4 @@
-package src.Identify;
+package Identify;
 
 import java.util.Scanner;
 

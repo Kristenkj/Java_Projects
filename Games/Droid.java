@@ -1,6 +1,6 @@
-package src.Calculators;
+package Games;
 
-public class Basic_Calc02 {
+public class Droid {
     public static void main(String[] args) {
 
     }
