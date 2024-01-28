@@ -12,7 +12,7 @@ public class Dog {
         System.out.println("Param Doggie");
     }
 
-    //Attribute / Data member / variable
+    //Attribute / Data member / variables
 
 
     //Methods/ Behavior
