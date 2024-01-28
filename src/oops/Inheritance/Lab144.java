@@ -1,6 +1,4 @@
-package src.Inheritance;
-
-import java.util.Scanner;
+package src.oops.Inheritance;
 
 public class Lab144 {
 

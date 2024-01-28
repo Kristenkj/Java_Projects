@@ -1,4 +1,4 @@
-package src.Inheritance.Hierarchical;
+package src.oops.Inheritance.Hierarchical;
 
 public class Car extends Vehicle {
 

@@ -1,4 +1,4 @@
-package src.Inheritance;
+package src.oops.Inheritance;
 
 public class Lab143 {
     public static void main(String[] args) {

@@ -1,4 +1,4 @@
-package src.Inheritance.Hierarchical;
+package src.oops.Inheritance.Hierarchical;
 
 public class Lab147 {
     public static void main(String[] args) {

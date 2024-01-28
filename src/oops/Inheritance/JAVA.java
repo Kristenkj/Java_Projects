@@ -1,4 +1,4 @@
-package src.Inheritance;
+package src.oops.Inheritance;
 
 public class JAVA extends Programming {
 

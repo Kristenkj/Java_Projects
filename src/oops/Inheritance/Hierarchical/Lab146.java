@@ -1,8 +1,9 @@
-package src.Inheritance.Hierarchical;
+package src.oops.Inheritance.Hierarchical;
 
 public class Lab146 {
     public static void main(String[] args) {
-        new Car();
+
+        Car c = new Car();
         Truck t = new Truck();
         Vehicle v = new Vehicle();
 
@@ -12,9 +13,6 @@ public class Lab146 {
 
 
         //Car c3 = new Truck();Not Possible because there is no relationship in hierarchical
-
-
-
 
 
     }

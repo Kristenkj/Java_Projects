@@ -1,4 +1,4 @@
-package src.Inheritance.Multilevel;
+package src.oops.Inheritance.Multilevel;
 
 public class Lab145 {
     public static void main(String[] args) {
