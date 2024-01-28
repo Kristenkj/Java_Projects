@@ -12,7 +12,7 @@ public class Factorials {
 //        5! -> 5*4*3*2*1 = 120
         //user_input = 5
         //print -> 120
-
+//45
 
         Scanner sc = new Scanner(System.in);
         System.out.println("Enter the number");
