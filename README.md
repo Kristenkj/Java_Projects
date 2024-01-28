@@ -9,6 +9,7 @@ Within the 'src' folder you will find labs that I have completed within my learn
 To view the details of each project, simply click on one of the folders listed above . Upon doing this you will see a list of corresponding projects in each folder.
 
 Below you will find a table with more info regarding the projects within each folder.: 
+
 //This portion is still in progress :) 
 |Folder | Project Name | Description | Tools Used |
 | --- | --- | --- | --- |
