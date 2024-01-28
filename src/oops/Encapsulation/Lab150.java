@@ -9,20 +9,15 @@ public class Lab150 {
 
         boolean check = vwoLogin.isLoggedIn("admin","password");
         String u = vwoLogin.getUsername();
-//        String u = vwoLogin.getPassword();
+//        String u = vwoLogin.getPassword(); Not possible to change because of encapsulation
 //        vwoLogin.password = "?";
         System.out.println(u);
         System.out.println(check);
 
         /// vwoLogin.pramod();
 
-
-
-
     }
 }
-
-
 
 class vwoLoginFixed{
 
@@ -38,8 +33,8 @@ class vwoLoginFixed{
         System.out.println("I am private");
     }
 
-    private String username;
-    private String password;
+    private String username;//No one can access private variables from the outside unless getter setter is provided
+    private String password;//No one can access private variables from the outside
 
     vwoLoginFixed(String u, String p){
         this.password = p;
@@ -56,7 +51,7 @@ class vwoLoginFixed{
             return true;
         }
         else {
-            System.out.println("Wrong");
+            System.out.println("Not Logged in");
             return false;
         }
 

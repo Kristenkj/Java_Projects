@@ -7,7 +7,7 @@ public class Thief {
 
         Cop cop = new Cop(10);
         System.out.println(cop.gun);
-        //cop.canIShoot();
+        //cop.canIShoot(); //This is a security concern
         //He is not in the Protect Police folder
 
 

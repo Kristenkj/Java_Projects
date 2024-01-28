@@ -5,11 +5,11 @@ public class Lab149 {
 
 
         Student s1 = new Student();
-        s1.name = "Amit";
-        s1.name = " Pramod";
+        s1.name = "Hunter";
+        s1.name = " Maple ";
 
         // Getter and setter - Condition Based
-        // They should hidden
+        // They should stay hidden
 
 
         PersonS personS = new PersonS();

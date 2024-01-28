@@ -28,7 +28,7 @@ class vwoLogin{
         this.username = username;
     }
 
-    private String username;
+    private String username;//hide variable in encapsulation so they can only be accessed in the specified function
 
     public String getPassword() {
         return password;
