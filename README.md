@@ -10,5 +10,5 @@ Below you will find a table with more info regarding the projects within each fo
 | --- | --- | --- | --- |
 | Calculators | Sample 2 | | |
 | Calculators | Sample 1 | | |
-| Factorials | | | |
+| src.Factorials | | | |
 | Games | | | |
