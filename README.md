@@ -1,6 +1,6 @@
 # JAVA Projects
 This repository contains a list of projects completed during my JAVA training. The projects were created using intellij. 
-You will find individual projects in there own folder that I have completed and wished to showcase within their own folders.
+You will find individual projects that I have completed and wished to showcase within their own folders.
 
 Within the 'src' folder you will find labs that I have completed within my learning of the JAVA language to practice and advance my skills.
 
