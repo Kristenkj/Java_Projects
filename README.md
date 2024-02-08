@@ -19,7 +19,7 @@ Below you will find a table with more info regarding the projects within each fo
 | X | Car_Loan_Payment | | |
 | X | Mortgage_Calc | | |
 | Games | Desert_island_playlist | | |
-| X | Droid | | |
+| X | Droid |This droid is able to state its name and perform specified tasks | |
 | X | Game_Logic01 | | |
 | X | Game_Logic02 | | |
 | X | Magic_8_Ball | | |
