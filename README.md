@@ -14,7 +14,7 @@ Below you will find a table with more info regarding the projects within each fo
 |Folder | Project Name | Description | Tools Used |
 | --- | --- | --- | --- |
 | Calculators | Grade_Calc01 | This calculator calculates and displays the letter grade based on a grading scale after taking a number as input.| IntelliJ|
-| X | Basic_Calc01 | This calculator will calculate the addition, subtraction, multiplecation, division and remainder of two numbers. |IntelliJ |
+| X | [Basic_Calc01](https://github.com/Kristenkj/Java_Projects/blob/main/Calculators/Basic_Calc01.java) | This calculator will calculate the addition, subtraction, multiplecation, division and remainder of two numbers. |IntelliJ |
 | X | Best_Fare | | |
 | X | Car_Loan_Payment |This program calculates the remaining balance and monthly payment of a car loan using an 'if-else if' statement | IntelliJ |
 | X | Mortgage_Calc | | |
