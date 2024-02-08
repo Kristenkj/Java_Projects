@@ -27,3 +27,7 @@ Below you will find a table with more info regarding the projects within each fo
 | Identify | Letter_Identifier | | |
 | Identify | Days_of_week | | |
 | Identify | Triangle_Type | | |
+
+
+## Certificates of Completion
+[Introduction to JAVA Certificate - Sololearn](https://www.sololearn.com/certificates/CC-RAYB331G)
