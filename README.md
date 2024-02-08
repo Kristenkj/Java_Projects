@@ -16,10 +16,10 @@ Below you will find a table with more info regarding the projects within each fo
 | Calculators | Grade_Calc01 | This calculator calculates and displays the letter grade based on a grading scale after taking a number as input.| IntelliJ|
 | X | Basic_Calc01 | This calculator will calculate the addition, subtraction, multiplecation, division and remainder of two numbers. |IntelliJ |
 | X | Best_Fare | | |
-| X | Car_Loan_Payment | | |
+| X | Car_Loan_Payment |This program calculates the remaining balance and monthly payment of a car loan using an 'if-else if' statement | IntelliJ |
 | X | Mortgage_Calc | | |
 | Games | Desert_island_playlist | | |
-| X | Droid |This droid is able to state its name and perform specified tasks | |
+| X | Droid |This droid is able to state its name and perform specified tasks |IntelliJ |
 | X | Game_Logic01 | | |
 | X | Game_Logic02 | | |
 | X | Magic_8_Ball | | |
