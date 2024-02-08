@@ -7,7 +7,7 @@ public class Basic_Calc01 {
 
         /* This program creates a basic grade calculator.
          * The calculator will calculate and display the letter grade based on
-         * the grading scale:
+         * the grading scale after taking a number as input:
          * A : 90 - 100
          * B: 80-89
          * C: 70 -79
