@@ -31,3 +31,5 @@ Below you will find a table with more info regarding the projects within each fo
 
 ## Certificates of Completion
 [Introduction to JAVA Certificate - Sololearn](https://www.sololearn.com/certificates/CC-RAYB331G)
+
+[Intro to JAVA - Codecademy](https://www.codecademy.com/profiles/Kristenkjj/certificates/8149b07e106bb4b49aad31a6432bf648)
