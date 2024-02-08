@@ -14,7 +14,7 @@ Below you will find a table with more info regarding the projects within each fo
 |Folder | Project Name | Description | Tools Used |
 | --- | --- | --- | --- |
 | Calculators | Basic_Calc01 | This calculator calculates and displays the letter grade based on a grading scale after taking a number as input.| IntelliJ|
-| X | Basic_Calc01 | | |
+| X | Basic_Calc02 | This calculator will calculate the addition, subtraction, multiplecation, division and remainder of two numbers. |IntelliJ |
 | X | Best_Fare | | |
 | X | Car_Loan_Payment | | |
 | X | Mortgage_Calc | | |
