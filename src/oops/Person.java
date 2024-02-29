@@ -1,6 +1,8 @@
 package src.oops;
 
 public class Person {
+    public boolean a;
+    public boolean b;
 
     //Attribute
 
@@ -12,6 +14,9 @@ public class Person {
     String gender;
     String emailId;
     String education;
+
+    public Person(int i, boolean b) {
+    }
 
     //Behavior - What a person can do?
 
@@ -26,7 +31,7 @@ public class Person {
     boolean isMarried() {
         return true;//
     }
-    Person(){
+    public Person(){
         System.out.println("Default Person");
     }
     Person(String referenceName){

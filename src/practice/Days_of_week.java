@@ -1,4 +1,4 @@
-package Identify;
+package src.practice;
 
 import java.util.Scanner;
 
