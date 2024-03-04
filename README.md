@@ -24,9 +24,10 @@ Below you will find a table with more info regarding the projects within each fo
 | X | Game_Logic02 | | |
 | X | Magic_8_Ball | | |
 | X | Travel_API_Adventures | | |
-| [Identify](https://github.com/Kristenkj/Java_Projects/tree/main/Identify) | [Letter_Identifier](https://github.com/Kristenkj/Java_Projects/blob/main/Identify/Letter_Identifier.java) | |IntelliJ |
-| X | [Days_of_week](https://github.com/Kristenkj/Java_Projects/blob/main/Identify/Days_of_week.java) | |IntelliJ |
-| X | [Triangle_Type](https://github.com/Kristenkj/Java_Projects/blob/main/Identify/Triangle_Type.java) | |IntelliJ |
+| [Identify](https://github.com/Kristenkj/Java_Projects/tree/main/Identify) | [Letter_Identifier](https://github.com/Kristenkj/Java_Projects/blob/main/Identify/Letter_Identifier.java) | This program identifies and informs the user if an alphabet character is a vowel or consonant |IntelliJ |
+| X | [Days_of_week](https://github.com/Kristenkj/Java_Projects/blob/main/Identify/Days_of_week.java) |This program identifies the days/date 1- 7 of the week and tells you the day of the week that it is. |IntelliJ |
+| X | [Triangle_Type](https://github.com/Kristenkj/Java_Projects/blob/main/Identify/Triangle_Type.java) |  This program classifies a triangle based on its side lengths. |IntelliJ |
+| X | [Continents](https://github.com/Kristenkj/Java_Projects/blob/main/Identify/Continents.java)|This program uses the switch statement and scanner-input to identify and output a continent and its largest city. |IntelliJ|
 
 
 ## Certificates of Completion
